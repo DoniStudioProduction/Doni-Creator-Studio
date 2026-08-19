@@ -1,0 +1,10 @@
+{
+  "name": "DONI CREATOR STUDIO",
+  "short_name": "DONI Studio",
+  "description": "Create. Grow. Dominate.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050A20",
+  "theme_color": "#0B1F5E",
+  "icons": []
+}
